@@ -1,0 +1,13 @@
+# Core ML / NLP
+sentence-transformers
+transformers
+torch
+faiss-cpu   # use faiss-gpu if running on GPU builds
+
+# Data handling
+pandas
+numpy
+
+# Utilities
+tqdm
+huggingface-hub
